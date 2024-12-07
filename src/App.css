@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.languages-div, .language-div{
+  padding: 1rem;
+}
+
+.language-name{
+  margin-top: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.link{
+  color: lightcoral;
+}
+
+.flecha, .link-flecha{
+  color: lightcoral;
+  text-decoration: none;
+  font-size: 30px;
+}
